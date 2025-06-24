@@ -1,3 +1,3 @@
 # apnacollege-demo1
 This is a sample git repository <br>
-Author - Chandrashekar
+Author - Chandrashekar(software developer)
